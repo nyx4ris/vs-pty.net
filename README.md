@@ -3,7 +3,7 @@
 
 Pty.Net is a cross platform, .NET library providing idiomatic bindings for `forkpty()`.
 
-Pty.Net supports Linux, macOS, and Windows. On versions of windows older than 1809 the [winpty](https://github.com/rprichard/winpty) is used. For windows 1809+ this library ships a side-by-side copy of conhost.
+Pty.Net supports Linux, macOS, and Windows. On versions of windows older than 1809 the [winpty](https://github.com/rprichard/winpty) library is used. For windows 1809+ this library ships a side-by-side copy of conhost.
 
 # Contributing
 
